@@ -3,6 +3,8 @@ examples of getting sensor data on an Andriod phone
 
 Total Sensors: 5 +Bettary Manager
 
+![A test image](APP_Screenshot.png)
+
 The APP_Screenshot.png shows how the APP works.
 
 All codes in: 50317079_Lu\app\src\main\java\com\example\myapplication\MainActivity.java
