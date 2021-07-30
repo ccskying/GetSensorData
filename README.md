@@ -7,4 +7,4 @@ All codes in: 50317079_Lu\app\src\main\java\com\example\myapplication\MainActivi
 
 View file: 50317079_Lu\app\src\main\res\layout\activity_main.xml
 
-!!!!!Notice: Chartview lib come from: https://github.com/PhilJay/MPAndroidChart
+!!!!!Notice: Chartview lib comes from: https://github.com/PhilJay/MPAndroidChart
